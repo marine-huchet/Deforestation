@@ -1,5 +1,5 @@
 # Déforestation
 
-Projet pour le cours pyhton pour la data science
+Projet pour le cours python pour la data science
 
-Lien entre déforestation et croissance des pays
+Nous allons étudier dans ce projet la corrélation statistique entre déforestation et croissance du PIB par pays  
