@@ -9,3 +9,4 @@ pycountry
 numpy
 chardet
 matplotlib
+owid-catalog
