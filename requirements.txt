@@ -1,0 +1,8 @@
+pandas
+matplotlib
+geopandas
+nbformat
+plotly
+seaborn
+scikit-learn
+pycountry
