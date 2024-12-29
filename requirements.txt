@@ -10,3 +10,4 @@ numpy
 chardet
 matplotlib
 owid-catalog
+linearmodels
